@@ -18,7 +18,7 @@ The primary goal was to create an automated text analysis model that can:
 * Serve as a proof-of-concept for text classification in environmental datasets.
 
 ---
-📂 Dataset & Example Files
+## 📂 Dataset & Example Files
 This repository includes two supplementary files that support the climate change text classification project:
 
 climate_change.txt – A plain text dataset containing climate change–related statements and articles. Used for training and testing the text classification model after preprocessing with tokenization, stopword removal, and TF-IDF vectorization.
