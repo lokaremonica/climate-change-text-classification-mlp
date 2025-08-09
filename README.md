@@ -18,6 +18,16 @@ The primary goal was to create an automated text analysis model that can:
 * Serve as a proof-of-concept for text classification in environmental datasets.
 
 ---
+📂 Dataset & Example Files
+This repository includes two supplementary files that support the climate change text classification project:
+
+climate_change.txt – A plain text dataset containing climate change–related statements and articles. Used for training and testing the text classification model after preprocessing with tokenization, stopword removal, and TF-IDF vectorization.
+
+chat_history_sample.json – A small, anonymized sample of a conversation log demonstrating how a text classification or Q&A system might interact with climate-related inputs. Useful for illustrating model behavior and example outputs in a conversational setting.
+
+Both files are provided for demonstration purposes and are safe to publish. If using larger or proprietary datasets, ensure licensing and privacy compliance before distribution.
+
+---
 
 ## 🔍 Approach
 
